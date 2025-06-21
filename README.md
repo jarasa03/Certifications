@@ -33,7 +33,7 @@ _(Currently no specific web development certifications listed)_
 - **Europass Mobility Document (EN & ES)**  
   _(Internship and linguistic immersion from March to June 2023 under the KA121-VET program. Activities included IT support, system installation, and professional development in English.)_
 
-### ⚽ Sports Certifications
+### ⚽ Volley Certifications
 
 - **Volleyball Referee Certificate – Level III**  
   _(Issued by the Royal Spanish Volleyball Federation on June 4, 2024)_
