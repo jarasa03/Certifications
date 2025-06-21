@@ -8,43 +8,60 @@ Welcome to my personal repository where I collect and organize all the certifica
 
 ### 🖥️ IT Systems & Networking
 
-- **Diploma en Sistemas Microinformáticos y Redes**
+- **Graduation Diploma – Intermediate Vocational Training in IT Systems and Networks**  
+  _(Issued by Colegio Nuestra Sra. del Pilar – Salesianas Plaza Castilla on June 16, 2023, for the 2021–2023 academic program)_
 
 ### 💻 Web Development
 
-- **Prompting Responsable - Maximize AI in Your Business**  
-  _(Course focused on responsible AI usage in business environments)_
+_(Currently no specific web development certifications listed)_  
+🛠️ _Coming soon: Higher National Diploma in Web Application Development (DAW)_
+
+### 🤖 Artificial Intelligence & Productivity
+
+- **Responsible Prompting – Maximize AI in Your Business**  
+  _(Completed on June 21, 2025 – 8-hour course on responsible use of AI in business, developed by Microsoft and Founderz, offered through Santander Open Academy.)_
 
 ### 🔐 Cybersecurity
 
-- **Protege tu Negocio – Ciberseguridad en el Teletrabajo**  
-  _(Course on cybersecurity best practices for remote work)_
+- **Cybersecurity in Remote Work – Google Activate & INCIBE**  
+  _(Completed in May 2023. Covered secure teleworking for employers and employees, incident prevention, and fraud awareness. Duration: 2 hours)_
 
 ### 🌍 Academic Experience
 
-- **Diploma Erasmus**
-- **Europass Mobility Document**
+- **Erasmus Student Diploma – Colegio Nuestra Sra. del Pilar**  
+  _(Issued June 16, 2023. Erasmus accreditation for the 2021–2023 academic cohort.)_
+- **Europass Mobility Document (EN & ES)**  
+  _(Internship and linguistic immersion from March to June 2023 under the KA121-VET program. Activities included IT support, system installation, and professional development in English.)_
 
 ### ⚽ Sports Certifications
 
-- **Título Nacional Árbitro Voleibol**
-- **Título Nacional Árbitro Voley Playa**
+- **Volleyball Referee Certificate – Level III**  
+  _(Issued by the Royal Spanish Volleyball Federation on June 4, 2024)_
+- **Beach Volleyball Referee Certificate – Level III**  
+  _(Issued by the Royal Spanish Volleyball Federation on June 12, 2024)_
 
 ### ✍️ Writing & Communication
 
-- **Diploma Redactium**
+- **Redactium Writing Course**  
+  _(Completed in May 2023 with a score of 8.4/10. Covered modules on grammar, content enrichment, and professional writing skills.)_
+
+### 🧠 Digital Skills
+
+- **Finder – Capacítate para el Empleo**  
+  _(26-hour course on online search strategies, information evaluation, and responsible digital navigation. Completed in May 2023 with a score of 9/10.)_
 
 ### 🗣️ Language Certificates
 
-- **B1 Preliminary English Test**
-- **English Placement Test Certificate**
-- **Finder** _(Cambridge or institutional English level test)_
+- **English Placement Test Certificate – C1 Level**  
+  _(Completed through Erasmus+ Online Language Support, April 2023)_
+- **Preliminary English Test – B1 Level (Cambridge Assessment)**  
+  _(Passed with Grade B in July 2021. Overall score: 156 on the Cambridge Scale.)_
 
 ---
 
 ## 🔜 Coming Soon
 
-📌 **Grado Superior en Desarrollo de Aplicaciones Web (DAW)** – _Expected_
+📌 **Higher National Diploma in Web Application Development (DAW)** – _Expected_
 
 ---
 
