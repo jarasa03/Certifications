@@ -40,10 +40,13 @@ _(Currently no specific web development certifications listed)_
 - **Beach Volleyball Referee Certificate – Level III**  
   _(Issued by the Royal Spanish Volleyball Federation on June 12, 2024)_
 
-### ✍️ Writing & Communication
+### ✍️ SEO & Content Writing
 
 - **Redactium Writing Course**  
   _(Completed in May 2023 with a score of 8.4/10. Covered modules on grammar, content enrichment, and professional writing skills.)_
+
+- **SEO and Content Marketing**  
+  _(Completed on June 22, 2025. 6-hour course on search engine optimization principles, digital content strategy, SEM fundamentals, and performance tracking. Offered by Santander Open Academy)_
 
 ### 🧠 Digital Skills
 
