@@ -16,6 +16,14 @@ Welcome to my personal repository where I collect and organize all the certifica
 _(Currently no specific web development certifications listed)_  
 🛠️ _Coming soon: Higher National Diploma in Web Application Development (DAW)_
 
+### ✍️ SEO & Content Writing
+
+- **SEO and Content Marketing**  
+  _(Completed on June 22, 2025. 6-hour course on search engine optimization principles, digital content strategy, SEM fundamentals, and performance tracking. Offered by Santander Open Academy)_
+  
+- **Redactium Writing Course**  
+  _(Completed in May 2023 with a score of 8.4/10. Covered modules on grammar, content enrichment, and professional writing skills.)_
+
 ### 🤖 Artificial Intelligence & Productivity
 
 - **Responsible Prompting – Maximize AI in Your Business**  
@@ -39,14 +47,6 @@ _(Currently no specific web development certifications listed)_
   _(Issued by the Royal Spanish Volleyball Federation on June 4, 2024)_
 - **Beach Volleyball Referee Certificate – Level III**  
   _(Issued by the Royal Spanish Volleyball Federation on June 12, 2024)_
-
-### ✍️ SEO & Content Writing
-
-- **Redactium Writing Course**  
-  _(Completed in May 2023 with a score of 8.4/10. Covered modules on grammar, content enrichment, and professional writing skills.)_
-
-- **SEO and Content Marketing**  
-  _(Completed on June 22, 2025. 6-hour course on search engine optimization principles, digital content strategy, SEM fundamentals, and performance tracking. Offered by Santander Open Academy)_
 
 ### 🧠 Digital Skills
 
