@@ -21,10 +21,10 @@ Welcome to my personal repository where I collect and organize all the certifica
 
 ### ✍️ SEO & Content Writing
 
-- [**SEO and Content Marketing**](seo-and-content-marketing.pdf)  
+- [**SEO and Content Marketing**](/✍%EF%B8%8F%20SEO%20%26%20Content%20Writing/seo-and-content-marketing.pdf)  
   _(Completed on June 22, 2025. 6-hour course on search engine optimization principles, digital content strategy, SEM fundamentals, and performance tracking. Offered by Santander Open Academy)_
   
-- [**Redactium Writing Course**](redactium-writing-course.pdf)  
+- [**Redactium Writing Course**](/✍%EF%B8%8F%20SEO%20%26%20Content%20Writing/redactium-writing-course.pdf)  
   _(Completed in May 2023 with a score of 8.4/10. Covered modules on grammar, content enrichment, and professional writing skills.)_
 
 ### 🤖 Artificial Intelligence & Productivity
