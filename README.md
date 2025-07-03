@@ -13,8 +13,11 @@ Welcome to my personal repository where I collect and organize all the certifica
 
 ### 💻 Web Development
 
-_(Currently no specific web development certifications listed)_  
-🛠️ _Coming soon: Higher National Diploma in Web Application Development (DAW)_
+- **Honors Diploma – Higher National Diploma in Web Application Development**  
+  _(Issued by IES Virgen de la Paloma, Madrid, on June 24, 2025. Academic excellence recognition awarded by the Comunidad de Madrid to students with an overall grade average of 8.00 or higher in advanced vocational training. Final GPA: 8.69.)_
+
+- **Higher National Diploma in Web Application Development – Completed**  
+  _(Two-year vocational program officially completed in June 2025. Title pending official issuance. Covered full stack web development and systems management using technologies such as PHP, Laravel, JavaScript, HTML, CSS, SCSS, MySQL, Java, XQuery, XPath, and command-line tools in Linux and Windows environments.)_
 
 ### ✍️ SEO & Content Writing
 
