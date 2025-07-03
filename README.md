@@ -40,9 +40,9 @@ Welcome to my personal repository where I collect and organize all the certifica
 
 ### 🌍 Academic Experience
 
-- **Erasmus Student Diploma – Colegio Nuestra Sra. del Pilar**  
+- [**Erasmus Student Diploma – Colegio Nuestra Sra. del Pilar**](/🌍%20Academic%20Experience/erasmus-student-diploma.pdf)
   _(Issued June 16, 2023. Erasmus accreditation for the 2021–2023 academic cohort.)_
-- **Europass Mobility Document (EN & ES)**  
+- **Europass Mobility Document ([EN](/🌍%20Academic%20Experience/europass-mobility-document-en.pdf) & [ES](/🌍%20Academic%20Experience/europass-mobility-document-es.pdf))**  
   _(Internship and linguistic immersion from March to June 2023 under the KA121-VET program. Activities included IT support, system installation, and professional development in English.)_
 
 ### 🏐 Volley Certifications
