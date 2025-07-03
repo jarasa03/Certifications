@@ -35,7 +35,7 @@ Welcome to my personal repository where I collect and organize all the certifica
 
 ### 🔐 Cybersecurity
 
-- **Cybersecurity in Remote Work – Google Activate & INCIBE**  
+- [**Cybersecurity in Remote Work – Google Activate & INCIBE**](/%F0%9F%94%90%20Cybersecurity/cybersecurity-remote-work.pdf)  
   _(Completed in May 2023. Covered secure teleworking for employers and employees, incident prevention, and fraud awareness. Duration: 2 hours)_
 
 ### 🌍 Academic Experience
