@@ -1,6 +1,6 @@
 # 🎓 Professional Certifications Portfolio
 
-Welcome to my personal repository where I collect and organize all the certifications and official documents I’ve earned across various disciplines: IT, web development, language skills, and more.
+Welcome to my personal repository where I collect and organize all the certifications and official documents I’ve earned across various disciplines: web development, IT, language skills, and more.
 
 ---
 
