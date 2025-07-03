@@ -30,7 +30,7 @@ Welcome to my personal repository where I collect and organize all the certifica
 
 ### 🤖 Artificial Intelligence & Productivity
 
-- **Responsible Prompting – Maximize AI in Your Business**  
+- [**Responsible Prompting – Maximize AI in Your Business**](/🤖%20Artificial%20Intelligence%20%26%20Productivity/responsible-prompting-maximize-ai.pdf)  
   _(Completed on June 21, 2025 – 8-hour course on responsible use of AI in business, developed by Microsoft and Founderz, offered through Santander Open Academy.)_
 
 ### 🔐 Cybersecurity
