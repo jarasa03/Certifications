@@ -47,9 +47,9 @@ Welcome to my personal repository where I collect and organize all the certifica
 
 ### 🏐 Volley Certifications
 
-- **Volleyball Referee Certificate – Level III**  
+- [**Volleyball Referee Certificate – Level III**](/🏐%20Volley%20Certifications/volleyball-referee-certificate-level-3.pdf)  
   _(Issued by the Royal Spanish Volleyball Federation on June 4, 2024)_
-- **Beach Volleyball Referee Certificate – Level III**  
+- [**Beach Volleyball Referee Certificate – Level III**](/🏐%20Volley%20Certifications/beach-volleyball-referee-certificate-level-3.pdf)  
   _(Issued by the Royal Spanish Volleyball Federation on June 12, 2024)_
 
 ### 🧠 Digital Skills
