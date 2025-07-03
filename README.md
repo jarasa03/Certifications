@@ -21,7 +21,7 @@ Welcome to my personal repository where I collect and organize all the certifica
 
 ### ✍️ SEO & Content Writing
 
-- **SEO and Content Marketing**  
+- [**SEO and Content Marketing**](Redactium%20Writing%20Course.pdf)  
   _(Completed on June 22, 2025. 6-hour course on search engine optimization principles, digital content strategy, SEM fundamentals, and performance tracking. Offered by Santander Open Academy)_
   
 - **Redactium Writing Course**  
