@@ -54,7 +54,7 @@ Welcome to my personal repository where I collect and organize all the certifica
 
 ### 🧠 Digital Skills
 
-- **Finder – Capacítate para el Empleo**  
+- [**Finder – Capacítate para el Empleo**](/🧠%20Digital%20Skills/finder-capacitate-para-el-empleo.pdf)
   _(26-hour course on online search strategies, information evaluation, and responsible digital navigation. Completed in May 2023 with a score of 9/10.)_
 
 ### 🗣️ Language Certificates
