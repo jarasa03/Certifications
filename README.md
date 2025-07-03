@@ -59,9 +59,9 @@ Welcome to my personal repository where I collect and organize all the certifica
 
 ### 🗣️ Language Certificates
 
-- **English Placement Test Certificate – C1 Level**  
+- [**English Placement Test Certificate – C1 Level**](/🗣%EF%B8%8F%20Language%20Certificates/english-placement-test-c1.pdf) 
   _(Completed through Erasmus+ Online Language Support, April 2023)_
-- **Preliminary English Test – B1 Level (Cambridge Assessment)**  
+- [**Preliminary English Test – B1 Level (Cambridge Assessment)**](/🗣%EF%B8%8F%20Language%20Certificates/preliminary-english-test-b1.pdf)
   _(Passed with Grade B in July 2021. Overall score: 156 on the Cambridge Scale.)_
 
 ---
