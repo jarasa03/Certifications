@@ -16,8 +16,8 @@ Welcome to my personal repository where I collect and organize all the certifica
 
 ### 🖥️ IT Systems & Networking
 
-- [**Graduation Diploma – Intermediate Vocational Training in IT Systems and Networks**](/🖥%EF%B8%8F%20IT%20Systems%20%26%20Networking/graduation-diploma-it-systems-and-networks.pdf)  
-  _(Issued by Colegio Nuestra Sra. del Pilar – Salesianas Plaza Castilla on June 16, 2023, for the 2021–2023 academic program)_
+- [**Technician Diploma – Intermediate Vocational Training in IT Systems and Networks**](/🖥%EF%B8%8F%20IT%20Systems%20&%20Networking.pdf)  
+  _(Issued by Colegio Nuestra Señora del Pilar – Salesianas Plaza Castilla on June 23, 2023. Official vocational qualification completed with a final grade of 8.64. Recognized across Spain as a professional certification in computer systems, networking, and basic technical support.)_
 
 
 ### ✍️ SEO & Content Writing
