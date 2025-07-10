@@ -14,7 +14,7 @@ Welcome to my personal repository where I collect and organize all the certifica
 - **Higher National Diploma in Web Application Development – Completed**  
   _(Two-year vocational program officially completed in June 2025. Title pending official issuance. Covered full stack web development and systems management using technologies such as PHP, Laravel, JavaScript, HTML, CSS, SCSS, MySQL, Java, XQuery, XPath, and command-line tools in Linux and Windows environments.)_
 
-- [**GSAP from scratch**]()
+- [**GSAP from scratch**](/💻%20Web%20Development/gsap-from-scratch.pdf)
   _(Completed on July 10, 2025. Focused on building modern web animations using GSAP, including timelines, scroll effects, and plugin integrations. Issued by Miguel Ángel Durán via [midudev.dev](https://midu.dev).)_
 
 ### 🖥️ IT Systems & Networking
