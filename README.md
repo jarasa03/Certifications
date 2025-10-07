@@ -22,6 +22,14 @@ Welcome to my personal repository where I collect and organize all the certifica
 - [**Technician Diploma – Intermediate Vocational Training in IT Systems and Networks**](/🖥%EF%B8%8F%20IT%20Systems%20%26%20Networking/technician-diploma-it-systems-and-networks.pdf)  
   _(Issued by Colegio Nuestra Señora del Pilar – Salesianas Plaza Castilla on June 23, 2023. Official vocational qualification completed with a final grade of 8.64. Recognized across Spain as a professional certification in computer systems, networking, and basic technical support.)_
 
+### 🤖 Artificial Intelligence & Productivity
+
+- [**Introduction to AI Development**](/🤖%20Artificial%20Intelligence%20%26%20Productivity/introduction-to-ai-development.pdf)  
+  _(Completed on October 4, 2025. 6-hour practical course issued by Big School, focused on integrating AI into the daily workflow of developers. Covered prompt engineering for cleaner code, defining projects through “AI expert teams,” and automating programming tasks with artificial intelligence.)_
+
+- [**Responsible Prompting – Maximize AI in Your Business**](/🤖%20Artificial%20Intelligence%20%26%20Productivity/responsible-prompting-maximize-ai.pdf)  
+  _(Completed on June 21, 2025 – 8-hour course on responsible use of AI in business, developed by Microsoft and Founderz, offered through Santander Open Academy.)_
+
 ### ✍️ SEO & Content Writing
 
 - [**SEO and Content Marketing**](/✍%EF%B8%8F%20SEO%20%26%20Content%20Writing/seo-and-content-marketing.pdf)  
@@ -29,14 +37,6 @@ Welcome to my personal repository where I collect and organize all the certifica
   
 - [**Redactium Writing Course**](/✍%EF%B8%8F%20SEO%20%26%20Content%20Writing/redactium-writing-course.pdf)  
   _(Completed in May 2023 with a score of 8.4/10. Covered modules on grammar, content enrichment, and professional writing skills.)_
-
-### 🤖 Artificial Intelligence & Productivity
-
-- [**Responsible Prompting – Maximize AI in Your Business**](/🤖%20Artificial%20Intelligence%20%26%20Productivity/responsible-prompting-maximize-ai.pdf)  
-  _(Completed on June 21, 2025 – 8-hour course on responsible use of AI in business, developed by Microsoft and Founderz, offered through Santander Open Academy.)_
-
-- [**Introduction to AI Development**](/🤖%20Artificial%20Intelligence%20%26%20Productivity/introduction-to-ai-development.pdf)  
-  _(Completed on October 4, 2025. 6-hour practical course issued by Big School, focused on integrating AI into the daily workflow of developers. Covered prompt engineering for cleaner code, defining projects through “AI expert teams,” and automating programming tasks with artificial intelligence.)_
 
 ### 🔐 Cybersecurity
 
@@ -88,4 +88,3 @@ All certificates are provided in PDF format, and folders are grouped by domain f
 
 Thanks for visiting!  
 Feel free to contact me or connect on [LinkedIn](https://linkedin.com/in/javierarrua) for more information or collaborations.
-
