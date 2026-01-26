@@ -33,6 +33,9 @@ Welcome to my personal repository where I collect and organize all the certifica
 - [**Responsible Prompting – Maximize AI in Your Business**](/🤖%20Artificial%20Intelligence%20%26%20Productivity/responsible-prompting-maximize-ai.pdf)  
   _(Completed on June 21, 2025 – 8-hour course on responsible use of AI in business, developed by Microsoft and Founderz, offered through Santander Open Academy.)_
 
+- [**Introduction to Artificial Intelligence Workflows**](/🤖%20Artificial%20Intelligence%20%26%20Productivity/iniciacion-flujos-trabajo-inteligencia-artificial-ia-workflow.pdf)  
+  _(Completed on November 20, 2025. 6-hour training program “IA WORKFLOW” issued by Big School in collaboration with InfoJobs, focused on designing practical AI-powered workflows to improve productivity. Covered structured LLM prompting, workflow-oriented problem solving, task automation, and the integration of AI tools into repeatable professional processes.)_
+
 ### ✍️ SEO & Content Writing
 
 - [**SEO and Content Marketing**](/✍%EF%B8%8F%20SEO%20%26%20Content%20Writing/seo-and-content-marketing.pdf)  
@@ -91,4 +94,5 @@ All certificates are provided in PDF format, and folders are grouped by domain f
 
 Thanks for visiting!  
 Feel free to contact me or connect on [LinkedIn](https://linkedin.com/in/javierarrua) for more information or collaborations.
+
 
