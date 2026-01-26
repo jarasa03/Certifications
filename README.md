@@ -1,6 +1,6 @@
 # 🎓 Professional Certifications Portfolio
 
-Welcome to my personal repository where I collect and organize all the certifications and official documents I’ve earned across various disciplines: web development, IT, language skills, and more.
+Welcome to my personal repository where I collect and organize all the certifications and official documents I’ve earned across multiple professional domains. This portfolio reflects my continuous learning journey in web development, IT systems and networking, artificial intelligence and workflow automation, digital productivity, cybersecurity, content and SEO, language proficiency, and academic and professional experience.
 
 ---
 
@@ -94,6 +94,7 @@ All certificates are provided in PDF format, and folders are grouped by domain f
 
 Thanks for visiting!  
 Feel free to contact me or connect on [LinkedIn](https://linkedin.com/in/javierarrua) for more information or collaborations.
+
 
 
 
