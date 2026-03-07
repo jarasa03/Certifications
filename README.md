@@ -27,6 +27,9 @@ Welcome to my personal repository where I collect and organize all the certifica
 - [**n8n: Create AI Agents**](/🤖%20Artificial%20Intelligence%20%26%20Productivity/n8n-create-ai-agents.pdf)  
   _(Completed on October 6, 2025. 9-hour Udemy course taught by Iván Alsigo, focused on building custom AI agents using n8n — a platform that combines automation, nocode, and artificial intelligence. Covered prompt-based decision flows, AI model integration (OpenAI, Google, Hugging Face, DeepSeek), RAG systems, embeddings, and memory management to create autonomous agents capable of interacting with users and automating complex workflows.)_
 
+- [**Racks Sprint AI Training Sessions – Basic Certification (AI Specialist)**](/🤖%20Artificial%20Intelligence%20%26%20Productivity/racks-sprint-ai-training-sessions.pdf)  
+  _(Completed in March 2026. Practical introductory training in applied artificial intelligence focused on understanding AI’s impact on work and business, using AI assistants productively, automating tasks, and building AI-powered systems by connecting tools and processes. Issued by Racks Academy / Racks Labs.)_
+
 - [**Introduction to AI Development**](/🤖%20Artificial%20Intelligence%20%26%20Productivity/introduction-to-ai-development.pdf)  
   _(Completed on October 4, 2025. 6-hour practical course issued by Big School, focused on integrating AI into the daily workflow of developers. Covered prompt engineering for cleaner code, defining projects through “AI expert teams,” and automating programming tasks with artificial intelligence.)_
 
@@ -94,6 +97,7 @@ All certificates are provided in PDF format, and folders are grouped by domain f
 
 Thanks for visiting!  
 Feel free to contact me or connect on [LinkedIn](https://linkedin.com/in/javierarrua) for more information or collaborations.
+
 
 
 
