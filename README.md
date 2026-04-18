@@ -24,7 +24,7 @@ Welcome to my personal repository where I collect and organize all the certifica
 
 ### 🤖 Artificial Intelligence & Productivity
 
-- [**Master in Artificial Intelligence**](/🤖%20Artificial%20Intelligence%20%26%20Productivity/master-in-artificial-intelligence-big-school.pdf)  
+- [**Master in Artificial Intelligence**](/🤖%20Artificial%20Intelligence%20%26%20Productivity/master-artificial-intelligence-big-school.pdf)  
   _(Completed on April 14, 2026. Professional training program issued by BIG school, certifying successful completion of all classes and the final exam. Focused on the practical application of artificial intelligence to improve productivity, automate workflows, and integrate modern AI tools into real professional environments. The master includes more than 240 hours of training, over 20 subjects, and work with more than 50 AI tools, covering areas such as AI fundamentals, LLMs, office productivity, automation, and applied business use cases.)_
 
 - [**n8n: Create AI Agents**](/🤖%20Artificial%20Intelligence%20%26%20Productivity/n8n-create-ai-agents.pdf)  
